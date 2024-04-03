@@ -31,7 +31,7 @@
   - 최종적으로 전체 데이터셋의 약 72%를 설명할 수 있는 내재요인 3가지를 추출하는 데 성공
   - 내재요인을 바탕으로 신문기사의 난이도를 측정하는 **이독성(Readability)** 지표를 생성
     
-  ![image](https://github.com/Sangvierr/NIE-for-Improving-Children-s-Reading-Comprehension-Skills-/assets/165464507/a951b145-5a85-43e3-9928-70a7e3a6c90e)
+  ![image](https://github.com/Sangvierr/NIE-for-Improving-Children-Reading-Comprehension-Skills-/assets/165464507/45fc4d01-6f87-407c-bb89-67c34ac27cf3)
 
 ### 4. NewsletterGenerator
 - 뉴스레터 작성 모델 개발
