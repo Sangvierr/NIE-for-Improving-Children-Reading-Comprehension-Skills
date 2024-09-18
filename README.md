@@ -1,6 +1,8 @@
 # NIE-for-Improving-Children-s-Reading-Comprehension-Skills
 어린이 문해력 향상을 위한 신문활용교육 서비스
 
+#### 🏆 2023 뉴스빅데이터 해커톤 대상 수상
+
 ### 1. Data Crawling and Pre-processing
 - 신문 텍스트 데이터 수집
   - 최근 10개년(2013년~2022년) 국내 4대 언론사(중앙일보, 경향신문, 동아일보, 한겨레)의 신문 기사 텍스트를 수집.
@@ -45,5 +47,3 @@
   - 비용을 고려하여 서비스에서는 GPT-3.5-Turbo 모델로 퀴즈를 생성하기로 함
 
 ### 서비스 구현 예시 : [Figma Web](https://www.figma.com/proto/1XoHRV91hfCMLNoS1yM1GO/bigkids_first_draft-(Community)?type=design&node-id=215-213&t=Vk5M39iCfRC9BdGt-0&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=215%3A213)
-
-#### 🏆 2023 뉴스빅데이터 해커톤 대상 수상
